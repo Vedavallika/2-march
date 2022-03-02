@@ -34,11 +34,13 @@ enter number of columns:2
 10
 25
 68
+[[23, 10], [25, 68]]
 enter number of rows:2
 enter number of columns:2
 56
 98
 32
 77
+[[56, 98], [32, 77]]
 resultant matrix is:
 -33 -88 -7 -9
